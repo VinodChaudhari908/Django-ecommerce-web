@@ -35,4 +35,4 @@ python manage.py runserver
 
 ## Where to find Me
 Like Me on [Facebook](https://www.facebook.com/vinodkumarchaudhari.chotu/)
-Or visit My [Website](https://www.github.com.VinodChaudhari908)
+Or visit My [Website](https://www.github.com/VinodChaudhari908)
